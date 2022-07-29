@@ -1,14 +1,14 @@
 [
   {
     "full_name": "alsa-project/alsa-lib",
-    "stargazers_count": 215,
-    "open_issues_count": 30,
-    "forks_count": 117
+    "stargazers_count": 216,
+    "open_issues_count": 31,
+    "forks_count": 116
   },
   {
     "full_name": "darlinghq/darling",
-    "stargazers_count": 9063,
-    "open_issues_count": 209,
+    "stargazers_count": 9071,
+    "open_issues_count": 208,
     "forks_count": 369
   },
   {
@@ -19,32 +19,32 @@
   },
   {
     "full_name": "tpoechtrager/osxcross",
-    "stargazers_count": 2119,
-    "open_issues_count": 85,
-    "forks_count": 257
+    "stargazers_count": 2120,
+    "open_issues_count": 86,
+    "forks_count": 258
   },
   {
     "full_name": "apple/darwin-xnu",
-    "stargazers_count": 10092,
+    "stargazers_count": 10095,
     "open_issues_count": 2,
-    "forks_count": 1580
+    "forks_count": 1581
   },
   {
     "full_name": "PureDarwin/PureDarwin",
-    "stargazers_count": 1742,
+    "stargazers_count": 1743,
     "open_issues_count": 30,
-    "forks_count": 134
+    "forks_count": 135
   },
   {
     "full_name": "ravynsoft/ravynos",
-    "stargazers_count": 2477,
+    "stargazers_count": 2482,
     "open_issues_count": 73,
     "forks_count": 96
   },
   {
     "full_name": "open-sauced/open-sauced",
-    "stargazers_count": 728,
+    "stargazers_count": 729,
     "open_issues_count": 16,
-    "forks_count": 329
+    "forks_count": 335
   }
 ]

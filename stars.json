@@ -1,13 +1,13 @@
 [
   {
     "full_name": "apple/darwin-xnu",
-    "stargazers_count": 10095,
+    "stargazers_count": 10104,
     "open_issues_count": 2,
-    "forks_count": 1581
+    "forks_count": 1583
   },
   {
     "full_name": "tpoechtrager/osxcross",
-    "stargazers_count": 2120,
+    "stargazers_count": 2123,
     "open_issues_count": 86,
     "forks_count": 258
   },
@@ -19,39 +19,39 @@
   },
   {
     "full_name": "darlinghq/darling",
-    "stargazers_count": 9071,
-    "open_issues_count": 208,
+    "stargazers_count": 9089,
+    "open_issues_count": 209,
     "forks_count": 369
   },
   {
     "full_name": "alsa-project/alsa-lib",
-    "stargazers_count": 216,
+    "stargazers_count": 217,
     "open_issues_count": 31,
-    "forks_count": 116
+    "forks_count": 117
   },
   {
     "full_name": "projectdiscovery/subfinder",
-    "stargazers_count": 5919,
+    "stargazers_count": 5936,
     "open_issues_count": 11,
-    "forks_count": 860
+    "forks_count": 861
   },
   {
     "full_name": "projectdiscovery/nuclei-templates",
-    "stargazers_count": 4726,
-    "open_issues_count": 144,
-    "forks_count": 1438
+    "stargazers_count": 4740,
+    "open_issues_count": 148,
+    "forks_count": 1453
   },
   {
     "full_name": "systemd/systemd",
-    "stargazers_count": 9845,
-    "open_issues_count": 1912,
-    "forks_count": 3008
+    "stargazers_count": 9857,
+    "open_issues_count": 1913,
+    "forks_count": 3013
   },
   {
     "full_name": "hakluke/hakoriginfinder",
-    "stargazers_count": 327,
+    "stargazers_count": 331,
     "open_issues_count": 0,
-    "forks_count": 41
+    "forks_count": 42
   },
   {
     "full_name": "brainfucksec/kalitorify",
@@ -61,51 +61,51 @@
   },
   {
     "full_name": "nsonaniya2010/SubDomainizer",
-    "stargazers_count": 1308,
+    "stargazers_count": 1307,
     "open_issues_count": 2,
-    "forks_count": 214
+    "forks_count": 213
   },
   {
     "full_name": "PureDarwin/PureDarwin",
-    "stargazers_count": 1743,
+    "stargazers_count": 1747,
     "open_issues_count": 30,
     "forks_count": 135
   },
   {
     "full_name": "Josue87/gotator",
-    "stargazers_count": 200,
+    "stargazers_count": 201,
     "open_issues_count": 4,
     "forks_count": 37
   },
   {
     "full_name": "anshumanbh/tko-subs",
-    "stargazers_count": 629,
+    "stargazers_count": 630,
     "open_issues_count": 4,
     "forks_count": 141
   },
   {
     "full_name": "xillwillx/skiptracer",
-    "stargazers_count": 917,
+    "stargazers_count": 919,
     "open_issues_count": 11,
     "forks_count": 30
   },
   {
     "full_name": "ethereum/solidity",
-    "stargazers_count": 17643,
-    "open_issues_count": 1124,
-    "forks_count": 4192
+    "stargazers_count": 17688,
+    "open_issues_count": 1129,
+    "forks_count": 4204
   },
   {
     "full_name": "ipfs/kubo",
-    "stargazers_count": 13941,
-    "open_issues_count": 1168,
-    "forks_count": 2734
+    "stargazers_count": 13947,
+    "open_issues_count": 1169,
+    "forks_count": 2740
   },
   {
     "full_name": "labwc/labwc",
     "stargazers_count": 512,
-    "open_issues_count": 68,
-    "forks_count": 53
+    "open_issues_count": 67,
+    "forks_count": 52
   },
   {
     "full_name": "SanojPunchihewa/InAppUpdater",
@@ -115,9 +115,9 @@
   },
   {
     "full_name": "PowerShell/PowerShell",
-    "stargazers_count": 34400,
-    "open_issues_count": 3264,
-    "forks_count": 5735
+    "stargazers_count": 34437,
+    "open_issues_count": 3262,
+    "forks_count": 5742
   },
   {
     "full_name": "level42ca/lumpysoft",
@@ -127,25 +127,25 @@
   },
   {
     "full_name": "klange/toaruos",
-    "stargazers_count": 5034,
+    "stargazers_count": 5049,
     "open_issues_count": 31,
-    "forks_count": 425
+    "forks_count": 427
   },
   {
     "full_name": "kuroko-lang/kuroko",
-    "stargazers_count": 273,
+    "stargazers_count": 275,
     "open_issues_count": 7,
     "forks_count": 15
   },
   {
     "full_name": "ravynsoft/ravynos",
-    "stargazers_count": 2482,
-    "open_issues_count": 73,
-    "forks_count": 96
+    "stargazers_count": 2494,
+    "open_issues_count": 74,
+    "forks_count": 97
   },
   {
     "full_name": "TebbaaX/Katana",
-    "stargazers_count": 779,
+    "stargazers_count": 780,
     "open_issues_count": 0,
     "forks_count": 166
   },
@@ -169,9 +169,9 @@
   },
   {
     "full_name": "StackExchange/blackbox",
-    "stargazers_count": 6293,
+    "stargazers_count": 6299,
     "open_issues_count": 56,
-    "forks_count": 357
+    "forks_count": 358
   },
   {
     "full_name": "unknownanonyamus2/RDP-Release-JapanRDP",
